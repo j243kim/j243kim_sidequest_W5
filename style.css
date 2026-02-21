@@ -1,8 +1,11 @@
 html, body {
   margin: 0;
   padding: 0;
+  background: #0a0618;
+  overflow: hidden;
 }
 
 canvas {
   display: block;
+  margin: 0 auto;
 }
